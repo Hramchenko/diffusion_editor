@@ -1,4 +1,4 @@
-# Face Attribute Manipulation With Diffusion Autoencoders and StyleFlow
+# Face Attribute Manipulation with Diffusion Autoencoders and StyleFlow
 🚀 Unofficial implementation of [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](https://arxiv.org/abs/2111.15640) for face attribute manipulation.
 
 ## Image generation
