@@ -1,6 +1,11 @@
 # Face Attribute Manipulation With Diffusion Autoencoders and StyleFlow
 🚀 Unofficial implementation of [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](https://arxiv.org/abs/2111.15640) for face attribute manipulation.
 
+## Image generation
+
+Download pretrained [weights](https://disk.yandex.ru/d/SjciA92PbGtVxw) to `checkpoints` directory.
+
+Run `styleflow_script.ipynb`.
 
 
 ## Requirements
