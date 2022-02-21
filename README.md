@@ -8,6 +8,12 @@ Download pretrained [weights](https://disk.yandex.ru/d/SjciA92PbGtVxw) to `check
 Run `styleflow_script.ipynb`.
 
 
+## Training 
+
+Download Celeba-HQ dataset.
+
+Run `celeba_ae_script.ipynb`.
+
 ## Requirements
 * pytorch
 * __torchdiffeq==0.0.1__
