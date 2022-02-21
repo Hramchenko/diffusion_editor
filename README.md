@@ -3,6 +3,8 @@
 
 ## Image generation
 
+![output](./data/output.png)
+
 Download pretrained [weights](https://disk.yandex.ru/d/SjciA92PbGtVxw) to `checkpoints` directory.
 
 Run `styleflow_script.ipynb`.
